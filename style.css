@@ -1,0 +1,122 @@
+/* variables  */
+/* line 1, C:/Users/meriw/web115/SASS/_base.scss */
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1em;
+  font-family: 'Helvetica', 'Verdana', sans-serif;
+  background: rgba(41, 13, 69, 0.3); }
+
+/* line 4, C:/Users/meriw/web115/SASS/style.scss */
+.container {
+  max-width: 960px;
+  padding: 1em;
+  margin: 5px auto;
+  color: #000000;
+  background: #ffffff;
+  border-radius: 20px;
+  overflow: auto; }
+
+/* line 8, C:/Users/meriw/web115/SASS/style.scss */
+header {
+  margin-bottom: 20px; }
+  /* line 10, C:/Users/meriw/web115/SASS/style.scss */
+  header h4 {
+    font-size: 0.875em;
+    text-align: center; }
+
+/* line 16, C:/Users/meriw/web115/SASS/style.scss */
+ul {
+  list-style: square; }
+
+/* line 20, C:/Users/meriw/web115/SASS/style.scss */
+h1 {
+  font-size: 2.5em; }
+
+/* line 24, C:/Users/meriw/web115/SASS/style.scss */
+h2 {
+  font-size: 2.25em; }
+
+/* line 28, C:/Users/meriw/web115/SASS/style.scss */
+h3 {
+  font-size: 1.75em; }
+
+/* line 32, C:/Users/meriw/web115/SASS/style.scss */
+h4 {
+  font-size: 1.5em; }
+
+/* line 36, C:/Users/meriw/web115/SASS/style.scss */
+h5 {
+  font-size: 1.125em; }
+
+/* line 46, C:/Users/meriw/web115/SASS/style.scss */
+h1,
+h2,
+h3,
+h4,
+h5,
+em,
+th {
+  color: #4f0e91;
+  margin: 0; }
+
+/* line 51, C:/Users/meriw/web115/SASS/style.scss */
+hr {
+  margin-top: 2px;
+  margin-bottom: 10px;
+  border-color: #4f0e91;
+  border-width: 2.5px; }
+
+/* line 58, C:/Users/meriw/web115/SASS/style.scss */
+p {
+  padding-left: 15px; }
+
+/* line 62, C:/Users/meriw/web115/SASS/style.scss */
+h1 {
+  text-align: center; }
+
+/* line 66, C:/Users/meriw/web115/SASS/style.scss */
+th {
+  width: 50%; }
+
+/* line 70, C:/Users/meriw/web115/SASS/style.scss */
+td {
+  vertical-align: top; }
+  /* line 72, C:/Users/meriw/web115/SASS/style.scss */
+  td ul {
+    list-style: none; }
+
+/* line 77, C:/Users/meriw/web115/SASS/style.scss */
+li {
+  margin: 6px 5px; }
+
+/*                 links                    */
+/* line 84, C:/Users/meriw/web115/SASS/style.scss */
+a {
+  color: #9e6b1f;
+  text-decoration: none; }
+
+/* line 89, C:/Users/meriw/web115/SASS/style.scss */
+a:hover {
+  text-decoration: underline;
+  color: #125e2b; }
+
+/* line 94, C:/Users/meriw/web115/SASS/style.scss */
+a:visited {
+  color: #125e2b; }
+
+/* line 98, C:/Users/meriw/web115/SASS/style.scss */
+.lefthead {
+  float: left; }
+
+/* line 102, C:/Users/meriw/web115/SASS/style.scss */
+.righthead {
+  float: right;
+  text-align: right;
+  font-weight: 600; }
+
+/* line 108, C:/Users/meriw/web115/SASS/style.scss */
+.fresh {
+  clear: both; }
+
+/*# sourceMappingURL=style.css.map */
